@@ -118,7 +118,7 @@ header .shopping span{
 }
 .card .checkOut div{
     background-color: #E8BC0E;
-    width: 100%;
+    width: 500px;
     height: 70px;
     display: flex;
     justify-content: center;
@@ -126,10 +126,10 @@ header .shopping span{
     font-weight: bold;
     cursor: pointer;
 }
-.card .checkOut div:nth-child(2){
+/* .card .checkOut div:nth-child(2){
     background-color: #1C1F25;
     color: #fff;
-}
+} */
 .listCard li{
     display: grid;
     grid-template-columns: 100px repeat(3, 1fr);
